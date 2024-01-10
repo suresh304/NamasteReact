@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    flex-direction: row;
+}
+.logo{
+    width: 200px;
+}
+
+.navitems>ul{
+    display: flex;
+    flex-direction: row;
+    padding-left: 5em;
+}
